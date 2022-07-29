@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+    "username": "Belencita",
+    "name": "Belén",
+    "password": "dulceperrita",
+    "email": "belecita@gmail.com",
+    "role": "admin",
+    "favProducts": []
+}

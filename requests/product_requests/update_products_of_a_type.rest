@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/products/type/Collar
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOTYzMDc3OWY0NTRjMDQzOWViMmUyZSIsInVzZXJuYW1lIjoiQmVsZW5jaXRhIiwiaWF0IjoxNjU0MTM1MzI2LCJleHAiOjE2NTQ3NDAxMjZ9.xiZ8Yt2Ol_dA7BfOexMVEfbeGllbNjTndWUzi599dQw
+
+{
+    "price": 5
+}

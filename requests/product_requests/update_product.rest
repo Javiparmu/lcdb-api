@@ -1,0 +1,26 @@
+PUT http://localhost:3001/api/products/629819d43504eaab3b81fde3
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOTYzMDc3OWY0NTRjMDQzOWViMmUyZSIsInVzZXJuYW1lIjoiQmVsZW5jaXRhIiwiaWF0IjoxNjU0MTM1MzI2LCJleHAiOjE2NTQ3NDAxMjZ9.xiZ8Yt2Ol_dA7BfOexMVEfbeGllbNjTndWUzi599dQw
+
+{
+    "name": "Pendientes rosas",
+    "type": "Pendiente",
+    "popular": false,
+    "clicks": 0,
+    "price": 3,
+    "description": "Pendientes de bolas de color turquesa",
+    "images": [
+        "https://i.postimg.cc/3w17w8XR/pendientes-turquesas-1500286568.jpg"
+    ],
+    "tags": [
+        "Pendientes",
+        "turquesa",
+        "bolas",
+        "perlas",
+        "plastico",
+        "Pendiente",
+        "verde",
+        "azul"
+    ],
+    "favCount": 0
+}

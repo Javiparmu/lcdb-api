@@ -1,0 +1,32 @@
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+    "name": "Pendientes multicolor",
+    "type": "Pendiente",
+    "popular": false,
+    "clicks": 0,
+    "price": 3,
+    "description": "Pendientes de bolas multicolor",
+    "images": [
+        "https://i.postimg.cc/tTLrQcr5/s-l500.jpg"
+    ],
+    "tags": [
+        "Pendientes",
+        "multicolor",
+        "bolas",
+        "perlas",
+        "plastico",
+        "Pendiente",
+        "verde",
+        "azul",
+        "rojo",
+        "amarillo",
+        "morado",
+        "blanco",
+        "Pendiente",
+        "marron",
+        "enganche"
+    ],
+    "favCount": 0
+}

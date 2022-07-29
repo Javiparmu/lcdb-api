@@ -1,0 +1,1 @@
+POST http://localhost:3001/api/products/629514c769cb32bea2a8d02c/clicks
